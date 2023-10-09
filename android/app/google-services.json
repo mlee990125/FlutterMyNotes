@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66332621949",
+    "project_id": "mynotes-camel-flutter",
+    "storage_bucket": "mynotes-camel-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66332621949:android:bf171543577ea2220b0514",
+        "android_client_info": {
+          "package_name": "com.camel.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6QaNNUFDe4sKRNNOMt2Q7tmPFEdcsyU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
